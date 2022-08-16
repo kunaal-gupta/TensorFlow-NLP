@@ -43,3 +43,17 @@ This project/notebook consists of several Tasks.
 
 **Task 10**: Train Bigger Models and Visualize Metrics with TensorBoard
 
+**Software used**:
+ * Google Collab
+
+**Acknowledgments**:
+* Python Intro Labs
+* Python CheatSheet
+* Code Submission & style guidlines
+
+
+
+**Github Profile**: https://github.com/kunaal-gupta
+
+**Feedback**: If you have any feedback or issue(s), please reach out to me at kunaalgupta@hotmail.com
+
