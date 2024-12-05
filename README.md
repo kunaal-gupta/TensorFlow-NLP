@@ -23,6 +23,11 @@ A complete version of this notebook is available in the course resources.
 **Contents**
 This project/notebook consists of several Tasks.
 
+![Accuracy Curve for Model](Accuracy%20Curve%20for%20Model.png)
+![Loss Curve for Model](Loss%20Curve%20for%20Model.png)
+
+
+
 **Task 1**: Introduction to the Project.
 
 **Task 2**: Setup your TensorFlow and Colab Runtime
